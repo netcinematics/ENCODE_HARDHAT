@@ -26,6 +26,8 @@ Create /contracts/contract1.sol and /tests/test1/js
 
 npx hardhat test
 
+F5 - compile .sol contract.
+
 ----
 
 TIPS:
