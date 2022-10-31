@@ -21,6 +21,17 @@ Select Create an empty hardhat.config.js. This will create an empty Hardhat conf
 npm install --save-dev chai @nomiclabs/hardhat-waffle
 
 In hardhat.config.js: require("@nomiclabs/hardhat-waffle");
+
+Create /contracts/contract1.sol and /tests/test1/js
+
+npx hardhat test
+
 ----
+
+TIPS:
+
+- no need for require("@nomiclabs/hardhat-ethers"), as @nomiclabs/hardhat-waffle
+
+
 
 
