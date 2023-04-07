@@ -30,6 +30,10 @@ F5 - compile .sol contract.
 
 ----
 
+NOTES: This took forever to find good example.
+https://docs.openzeppelin.com/contracts/4.x/
+$ npm install @openzeppelin/contracts
+
 TIPS:
 
 - no need for require("@nomiclabs/hardhat-ethers"), as @nomiclabs/hardhat-waffle
